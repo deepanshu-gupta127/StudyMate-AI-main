@@ -1,12 +1,6 @@
 # StudyMate AI 🧠🚀
 
 An AI-powered personal study assistant that helps you plan your learning, summarize notes, ask doubts from your PDFs/images, and sync schedules with Google Calendar.
-
-## 🖼️ Live Demo
-
-🌐 Frontend: [https://study-mate-ai-gules.vercel.app](https://study-mate-ai-gules.vercel.app)
-🛠️ Backend API: [https://studymate-ai-tkuz.onrender.com](https://studymate-ai-tkuz.onrender.com)
-
 ---
 
 ## ✨ Features
